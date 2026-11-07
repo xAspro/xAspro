@@ -24,11 +24,14 @@ I'm interested in exploring the intersection of statistics, machine learning, an
 
 ### Handling Unknown Systematic Errors in Quasar Luminosity Function Measurements
 
+### Handling Unknown Systematic Errors in Quasar Luminosity Function Measurements
+
 MSc thesis at TIFR, under the supervision of Prof. Girish Kulkarni.
 
-Explored a Bayesian mixture-model approach to account for outliers and unknown systematic errors in quasar luminosity function measurements. Implemented the statistical framework and performed Bayesian parameter estimation using MCMC.
+Investigated a Bayesian mixture-model approach to account for outliers and unknown systematic errors in quasar luminosity function measurements. Implemented the statistical framework and performed Bayesian parameter estimation using MCMC.
 
-[View source code](https://github.com/xAspro/Master-Thesis-Codes)
+- [Read the MSc thesis (PDF)](https://drive.google.com/file/d/1Jb19c04TiRAk_gIWBx2gBINoyGAwSTsP/view?usp=sharing)
+- [View source code](https://github.com/xAspro/Master-Thesis-Codes)
 
 ### Probability and Statistics
 
